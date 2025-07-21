@@ -8,7 +8,7 @@ Sou formado em **Marketing** e atuo com **tráfego pago**, o que me proporciona 
 
 ---
 
-### 📚 Atualmente estudando:
+### 📚 :
 - Python para Análise de Dados
 - SQL
 - Power BI
