@@ -45,12 +45,3 @@ Compartilhar meu progresso, aprendizados e projetos práticos enquanto evoluo na
 
 ---
 
-### 📈 Estatísticas GitHub
-
-<div align="center">
-
-<img 
-  alt="GitHub Stats" 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=patrickptk&show_icons=true&theme=tokyonight&in_
-
