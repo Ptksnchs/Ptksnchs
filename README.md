@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Patrick Sanches
 
-**`Estudante de Big Data & Profissional em Formação na Área de Dados`**
+**`Analista de dados`**
 
 Olá! Me chamo Patrick, sou apaixonado por tecnologia, dados e resolução de problemas. Estou cursando Big Data e Inteligência Analítica, com o objetivo de construir uma carreira sólida como **Analista de Dados**, **Engenheiro de Dados** ou **Cientista de Dados**, combinando conhecimento técnico, pensamento estratégico e visão de negócio.
 
