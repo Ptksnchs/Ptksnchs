@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👨🏻‍💻 Patrick Sanches
 
-<!--
-**Ptksnchs/Ptksnchs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Big Data & Profissional em Formação na Área de Dados`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Patrick, sou apaixonado por tecnologia, dados e resolução de problemas. Estou cursando Big Data e Inteligência Analítica, com o objetivo de construir uma carreira sólida como **Analista de Dados**, **Engenheiro de Dados** ou **Cientista de Dados**, combinando conhecimento técnico, pensamento estratégico e visão de negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou formado em **Marketing** e atuo com **tráfego pago**, o que me proporciona uma base sólida em **análise de métricas, testes A/B, comportamento do consumidor e tomada de decisões orientadas por dados**. Essa experiência me diferencia e complementa minha transição para o universo da análise de dados.
+
+---
+
+### 📚 Atualmente estudando:
+- Python para Análise de Dados
+- SQL
+- Power BI
+- Estatística
+- Engenharia de Dados (introdução)
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Jupyter" title="Jupyter Notebook" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Numpy" title="NumPy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://img.icons8.com/color/48/power-bi.png" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<br/>
+<br/>
+
+---
+
+### 🧠 Aprendizados & Projetos
+- [ ] Dashboard de vendas com Power BI
+- [ ] Análise exploratória com Python (Pandas & Matplotlib)
+- [ ] Banco de dados relacional com MySQL
+- [ ] Pipelines básicos com Python
+- [ ] Métricas de tráfego e conversão integradas com BI
+
+---
+
+### 🚀 Objetivo no GitHub
+Compartilhar meu progresso, aprendizados e projetos práticos enquanto evoluo na área de dados. Sinta-se à vontade para acompanhar meu perfil, contribuir ou trocar ideias!
+
+---
+
+### 📈 Estatísticas GitHub
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=patrickptk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickptk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
