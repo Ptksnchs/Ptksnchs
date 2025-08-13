@@ -2,7 +2,7 @@
 
 **`Analista de dados`**
 
-Olá! Me chamo Patrick, sou apaixonado por tecnologia, dados e resolução de problemas. Estou cursando Big Data e Inteligência Analítica, com o objetivo de construir uma carreira sólida como **Analista de Dados**, **Engenheiro de Dados** ou **Cientista de Dados**, combinando conhecimento técnico, pensamento estratégico e visão de negócio.
+Olá! Me chamo Patrick, sou apaixonado por tecnologia, dados e resolução de problemas. Estou cursando Big Data e Inteligência Analítica, com o objetivo de construir uma carreira sólida na área de **Dados**, combinando conhecimento técnico, pensamento estratégico e visão de negócio.
 
 Sou formado em **Marketing** e atuo com **tráfego pago**, o que me proporciona uma base sólida em **análise de métricas, testes A/B, comportamento do consumidor e tomada de decisões orientadas por dados**. Essa experiência me diferencia e complementa minha transição para o universo da análise de dados.
 
