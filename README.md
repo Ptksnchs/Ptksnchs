@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Patrick Sanches
 
-**`Analista de dados`**
+**`Data Analyst`**
 
 Hello! My name is Patrick, and I am passionate about technology, data, and problem-solving. I am currently studying Big Data and Analytical Intelligence, aiming to build a solid career in the Data field by combining technical knowledge, strategic thinking, and business vision.
 
