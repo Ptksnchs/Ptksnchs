@@ -2,9 +2,9 @@
 
 **`Analista de dados`**
 
-Olá! Me chamo Patrick, sou apaixonado por tecnologia, dados e resolução de problemas. Estou cursando Big Data e Inteligência Analítica, com o objetivo de construir uma carreira sólida na área de **Dados**, combinando conhecimento técnico, pensamento estratégico e visão de negócio.
+Hello! My name is Patrick, and I am passionate about technology, data, and problem-solving. I am currently studying Big Data and Analytical Intelligence, aiming to build a solid career in the Data field by combining technical knowledge, strategic thinking, and business vision.
 
-Sou formado em **Marketing** e atuo com **tráfego pago**, o que me proporciona uma base sólida em **análise de métricas, testes A/B, comportamento do consumidor e tomada de decisões orientadas por dados**. Essa experiência me diferencia e complementa minha transição para o universo da análise de dados.
+I hold a degree in Marketing and work with paid traffic, which has given me a strong foundation in metrics analysis, A/B testing, consumer behavior, and data-driven decision-making. This experience differentiates me and complements my transition into the world of data analytics.
 
 ---
 
